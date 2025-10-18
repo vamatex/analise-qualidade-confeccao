@@ -34,7 +34,7 @@ A primeira análise foca em identificar quais fornecedores mais produzem em cada
 Identificar os focos de problemas é crucial para a melhoria contínua.
 
 **Top 10 Fornecedores por Peças de Segunda Qualidade**
-![Gráfico de Segunda Qualidade](grafico_02_segunda_qualidade.png)
+![Gráfico de Segunda Qualidade](https://github.com/vamatex/analise-qualidade-confeccao/blob/main/WhatsApp%20Image%202025-10-18%20at%2019.08.05.jpeg?raw=true)
 *Insight: Este gráfico aponta os fornecedores que mais geram peças de segunda qualidade, indicando uma necessidade de maior atenção no controle de qualidade ou alinhamento técnico.*
 
 **Top 10 Fornecedores por Peças de Sacrifício (Refugo)**
