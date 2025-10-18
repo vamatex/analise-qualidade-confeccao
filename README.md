@@ -38,7 +38,7 @@ Identificar os focos de problemas é crucial para a melhoria contínua.
 *Insight: Este gráfico aponta os fornecedores que mais geram peças de segunda qualidade, indicando uma necessidade de maior atenção no controle de qualidade ou alinhamento técnico.*
 
 **Top 10 Fornecedores por Peças de Sacrifício (Refugo)**
-![Gráfico de Sacrifício](grafico_03_sacrificio.png)
+![Gráfico de Sacrifício](https://github.com/vamatex/analise-qualidade-confeccao/blob/main/WhatsApp%20Image%202025-10-18%20at%2019.08.29.jpeg?raw=true)
 *Insight: O volume de refugo representa uma perda direta. Esta visualização ajuda a focar os esforços de redução de desperdício nos parceiros mais críticos.*
 
 ---
