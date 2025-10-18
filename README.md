@@ -25,7 +25,7 @@ Este projeto realiza uma análise exploratória de dados (EDA) a partir de um re
 A primeira análise foca em identificar quais fornecedores mais produzem em cada categoria.
 
 **Top 10 Fornecedores por Peças de Primeira Qualidade**
-![Gráfico de Primeira Qualidade](grafico_01_primeira_qualidade.png)
+![Gráfico de Primeira Qualidade](https://github.com/vamatex/analise-qualidade-confeccao/blob/main/WhatsApp%20Image%202025-10-18%20at%2019.07.40.jpeg?raw=true)
 *Insight: Aqui podemos ver claramente quais parceiros são responsáveis pela maior parte da nossa produção de alta qualidade.*
 
 ---
