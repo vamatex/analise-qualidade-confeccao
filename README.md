@@ -47,7 +47,7 @@ Identificar os focos de problemas é crucial para a melhoria contínua.
 Quais produtos específicos estão falhando mais?
 
 **Top 20 Produtos com Mais Peças de Segunda Qualidade**
-![Gráfico de Produtos com Defeito](grafico_04_produtos_segunda_qualidade.png)
+![Gráfico de Produtos com Defeito](https://github.com/vamatex/analise-qualidade-confeccao/blob/main/WhatsApp%20Image%202025-10-18%20at%2020.05.29.jpeg?raw=true)
 *Insight: A análise por produto revela que certos fornecedores podem ter dificuldades com referências específicas. O "Produto 1", por exemplo, é um ponto de atenção para múltiplos fornecedores, sugerindo uma possível complexidade na sua produção.*
 
 ## 📈 Conclusão
